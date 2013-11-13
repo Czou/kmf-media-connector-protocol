@@ -1,6 +1,6 @@
 [![][KurentoImage]][website]
 
-Copyright Â© 2013 Kurento. Licensed under [LGPL License].
+Copyright © 2013 Kurento. Licensed under [LGPL License].
 
 kmf-media-api
 ==========
